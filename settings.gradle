@@ -1,0 +1,3 @@
+rootProject.name='KT-33206'
+include ':app'
+include ':foo'
